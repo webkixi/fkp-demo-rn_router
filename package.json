@@ -1,0 +1,17 @@
+{
+  "name": "router",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "fkp-react-native-router": "^1.0.0",
+    "fkp-sax": "^1.0.0",
+    "lodash": "^4.15.0",
+    "react": "15.2.1",
+    "react-native": "0.31.0",
+    "react-native-button": "^1.6.0",
+    "react-native-root-toast": "^1.0.3"
+  }
+}
